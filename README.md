@@ -1,6 +1,6 @@
 # Hi, I'm Jason Hwang
 
-I'm a software engineer with 5 years of professional software experience. I've worked on user-facing web and mobile applications, as well as backend services with large-scale data processing.
+I am a software engineer with 5 years of professional experience. I have worked on full stack, mobile, and large-scale data processing backend services. I am working on tempering my perfectionism. However, I consider my devotion to excellence one of my core strengths. I believe software should be honest — code should do what it claims.
 
 ## My approach to software
 
